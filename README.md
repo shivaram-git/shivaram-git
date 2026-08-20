@@ -87,9 +87,17 @@ Sri Indu Institute of Engineering and Technology, Hyderabad
 
 * Data Analyst
 * Data Scientist
+* Data Science Associate
 * AI/ML Engineer
+* Machine Learning Engineer
 * Generative AI Engineer
+* AI Engineer
 * Python Developer
+* Junior Data Scientist
+* Junior Data Analyst
+* Business Intelligence Analyst
+* Associate Data Scientist
+* Associate AI/ML Engineer
 
 ---
 
