@@ -1,5 +1,5 @@
 # Hi, I'm Shivaram 👋
-<img src="https://komarev.com/ghpvc/?username=shivaram-git&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+
 ### Data Science | AI/ML | Generative AI
 
 I'm a **B.Tech Data Science graduate** interested in **Data Analytics, Machine Learning, Artificial Intelligence, and Generative AI**. I enjoy building practical projects that use data and AI to solve real-world problems.
